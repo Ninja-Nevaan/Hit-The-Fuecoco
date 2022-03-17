@@ -1,0 +1,24 @@
+body{
+    background-position: center;
+    background-size:contain;
+	background:url(Grass.jpg);
+}
+#myCanvas{
+    border-width:10px;
+    border-style:ridge;
+	background-color:forestgreen;
+}
+#title{
+	display: inline-block;
+	color: white;
+	font-variant: small-caps;
+	font-family: cursive;
+}
+#instructions{
+	color: white;
+	font-family: cursive;
+}
+#result{
+	font-family: cursive;
+	color: white;
+}
